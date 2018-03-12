@@ -36,15 +36,15 @@
       <file leaf-file-name="BankAccount.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pl/krystiano/BankAccount.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="467">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding>
-                <element signature="e#762#763#0" expanded="true" />
-                <element signature="e#792#793#0" expanded="true" />
-                <element signature="e#829#830#0" expanded="true" />
-                <element signature="e#865#866#0" expanded="true" />
-                <element signature="e#899#900#0" expanded="true" />
-                <element signature="e#952#953#0" expanded="true" />
+                <element signature="e#870#871#0" expanded="true" />
+                <element signature="e#900#901#0" expanded="true" />
+                <element signature="e#937#938#0" expanded="true" />
+                <element signature="e#973#974#0" expanded="true" />
+                <element signature="e#1008#1009#0" expanded="true" />
+                <element signature="e#1061#1062#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,12 +53,18 @@
       <file leaf-file-name="BankAccountTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pl/krystiano/BankAccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+            <state relative-caret-position="337">
+              <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#927#928#0" expanded="true" />
-                <element signature="e#975#976#0" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#338#339#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#668#669#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+                <element signature="e#1676#1677#0" expanded="true" />
+                <element signature="e#1724#1725#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -254,44 +260,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520842645575</updated>
-      <workItem from="1520842649312" duration="5758000" />
+      <workItem from="1520842649312" duration="9251000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BankAccountTest - 2018.03.12 at 10h 18m 31s.xml">
+    <history-entry file="BankAccountTest - 2018.03.12 at 11h 51m 52s.xml">
       <configuration name="BankAccountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankAccountTest - 2018.03.12 at 10h 18m 40s.xml">
+    <history-entry file="BankAccountTest - 2018.03.12 at 11h 53m 43s.xml">
       <configuration name="BankAccountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankAccountTest - 2018.03.12 at 10h 19m 43s.xml">
+    <history-entry file="BankAccountTest - 2018.03.12 at 11h 53m 56s.xml">
       <configuration name="BankAccountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankAccountTest - 2018.03.12 at 10h 20m 34s.xml">
+    <history-entry file="BankAccountTest - 2018.03.12 at 11h 54m 01s.xml">
       <configuration name="BankAccountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankAccountTest - 2018.03.12 at 10h 20m 41s.xml">
+    <history-entry file="BankAccountTest - 2018.03.12 at 11h 54m 09s.xml">
       <configuration name="BankAccountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankAccountTest - 2018.03.12 at 10h 22m 36s.xml">
+    <history-entry file="BankAccountTest - 2018.03.12 at 11h 55m 44s.xml">
       <configuration name="BankAccountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankAccountTest - 2018.03.12 at 10h 32m 13s.xml">
+    <history-entry file="BankAccountTest - 2018.03.12 at 11h 55m 59s.xml">
       <configuration name="BankAccountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankAccountTest - 2018.03.12 at 10h 42m 36s.xml">
+    <history-entry file="BankAccountTest - 2018.03.12 at 11h 56m 12s.xml">
       <configuration name="BankAccountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankAccountTest - 2018.03.12 at 10h 44m 21s.xml">
+    <history-entry file="BankAccountTest - 2018.03.12 at 12h 03m 54s.xml">
       <configuration name="BankAccountTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BankAccountTest - 2018.03.12 at 11h 05m 09s.xml">
+    <history-entry file="BankAccountTest - 2018.03.12 at 12h 04m 23s.xml">
       <configuration name="BankAccountTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5758000" />
+    <option name="totallyTimeSpent" value="9251000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -372,27 +378,33 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/krystiano/BankAccount.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="467">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#829#830#0" expanded="true" />
-            <element signature="e#865#866#0" expanded="true" />
-            <element signature="e#899#900#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#870#871#0" expanded="true" />
+            <element signature="e#900#901#0" expanded="true" />
+            <element signature="e#937#938#0" expanded="true" />
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1061#1062#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pl/krystiano/BankAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        <state relative-caret-position="337">
+          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#927#928#0" expanded="true" />
-            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#668#669#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+            <element signature="e#1676#1677#0" expanded="true" />
+            <element signature="e#1724#1725#0" expanded="true" />
           </folding>
         </state>
       </provider>
